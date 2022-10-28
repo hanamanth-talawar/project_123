@@ -1,0 +1,6 @@
+hello i am the fork git 
+
+1.Go to github website
+2.open the code of the the repo.
+3. write the code 
+4.and the fork is created.
